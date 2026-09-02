@@ -10,7 +10,7 @@ WIP
 
 ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎<img src="" /> ⊰ [main rentry](https://rentry.co/maidofIife) + [extended](https://rentry.co/tanesob) + [atabook](https://tanesobs.atabook.org/) + [prns.cc](https://pronouns.cc/@theactualnerdemoji) ⊱ <img src="" />
 
-${\color{#D0DCBB} 𝕚𝕔}$ ${\color{#D0D09B} 𝟡𝕠𝕠𝕞𝕚𝕤𝕙}$ ${\color{#B7A679} 𝕠𝕟}$ ${\color{#84B27F} 𝕥𝕨𝕥}$
+𝙸𝙲 𝙷𝙾𝙼𝙴𝙿𝙸𝙲6
 
 ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ![](https://komarev.com/ghpvc/?username=arachnid&color=DC0000)
 
