@@ -17,5 +17,3 @@ WIP
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/arquiusgraphic1.png" width="430" height="230" />
 
 <img alighn="right" src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/dividers/arquiusbanner2.webp" width="990" height="91">
-
-<img align="left" src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/arquiusgraphic7.webp" witdh="110" height="120">
