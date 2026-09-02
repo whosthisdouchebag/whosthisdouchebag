@@ -12,7 +12,7 @@ WIP
 
 ${\color{#D0DCBB} 𝕚𝕔}$ ${\color{#D0D09B} 𝟡𝕠𝕠𝕞𝕚𝕤𝕙}$ ${\color{#B7A679} 𝕠𝕟}$ ${\color{#84B27F} 𝕥𝕨𝕥}$
 
-‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ <img src="https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=946352" />
+‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ![](https://komarev.com/ghpvc/?username=arachnid&color=DC0000)
 
  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/arquiusgraphic1.png" width="430" height="230" />
 
